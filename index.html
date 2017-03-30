@@ -1,113 +1,14 @@
+<!DOCTYPE html>
 <html>
-    <head>
-        <title> 翁泽超_练习 </title>
-        <style>
-            body{
-                background: #dddddd;
-            }
-            
-            #mycanvas{
-                padding: 10px;
-                border: thin inset #aaaaaa;
-                margin: 10px;
-                background-color: white;
-            }
-        </style>
-    </head>
-    
-    <body>
-        <canvas id = 'mycanvas' width = '600' height = '400'>
-            
-            <script>
-                var canvas = document.getElementById('mycanvas'),
-                    context = canvas.getContext('2d');
-                //蓝色矩形框
-                context.beginPath();
-                context.moveTo(5,5);
-                context.lineTo(150,5);
-                context.lineTo(150,50);
-                context.lineTo(5,50);
-                context.lineTo(5,5);
-                context.strokeStyle = 'red';
-                context.lineWidth = 4;
-                context.stroke();
-                context.fillStyle = 'blue';
-                context.fill();
-                
-                //彩色矩形框
-                context.beginPath();
-                context.moveTo(5,60);
-                context.lineTo(150,60);
-                context.strokeStyle = 'green';
-                context.lineWidth = 4;
-                context.stroke();
-                
-                context.beginPath();
-                context.moveTo(150,60);
-                context.lineTo(150,110);
-                context.strokeStyle = 'red';
-                context.lineWidth = 4;
-                context.stroke();
-                
-                context.beginPath();
-                context.moveTo(150,110);
-                context.lineTo(5,110);
-                context.strokeStyle = 'yellow';
-                context.lineWidth = 4;
-                context.stroke();
-                
-                context.beginPath();
-                context.moveTo(5,110);
-                context.lineTo(5,60);
-                context.strokeStyle = 'blue';
-                context.lineWidth = 4;
-                context.stroke();
-                
-                context.beginPath();
-                context.moveTo(5,60);
-                context.lineTo(150,60);
-                context.lineTo(150,110);
-                context.lineTo(5,110);
-                context.lineTo(5,60);
-                context.fillStyle = 'pink';
-                context.fill();
-                
-                
-                //挖孔
-                context.beginPath();
-                context.moveTo(200,10);
-                context.lineTo(500,10);
-                context.lineTo(500,310);
-                context.lineTo(200,310);
-                context.lineTo(200,10);
-                context.strokeStyle = 'black';
-                context.lineWidth = 5;
-                
-                context.moveTo(350,40);
-                context.lineTo(350,90);
-                context.lineTo(450,90);
-                context.lineTo(450,40);
-                context.lineTo(350,40);
-              
-                context.moveTo(300,90);
-                context.lineTo(250,150);
-                context.lineTo(400,150);
-                context.lineTo(300,90);
-               
-                context.moveTo(360,250);
-                context.arc(300,250,50,0,2*Math.PI,true);
-                context.stroke();
-                
-                context.shadowBlur = 50;
-                context.shadowColor = 'gray';
-                context.shadowOffsetX = 10;
-                context.shadowOffsetY = 10;
-                context.fillStyle = 'pink';
-                context.fill();
-                
-            </script>
-            
-        </canvas>
-    </body>
-    
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>index</title>
+<meta name="description" content="">
+<meta name="keywords" content="">
+<link href="css/EX03.css" rel="stylesheet">
+</head>
+<body>
+    <a href="html/EX03.html">EX03</a>
+</body>
 </html>
