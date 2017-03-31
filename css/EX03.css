@@ -86,7 +86,7 @@
 	height: 90px;
 	top: 6px;
 	left: 6px;
-	background-image: url(picture/b.jpg);
+	background-image: url(../picture/b.jpg);
 	background-size: 100% 100%;
 	float: left;
 }
@@ -191,6 +191,7 @@
 	height: 120px;
 	left: 50px;
 	top: 50px;
+
 	background-image: url(../picture/s.png);
 	background-size: 100% 100%;
 }
@@ -281,7 +282,7 @@
 	height: 60px;
 	left: 8px;
 	top: 10px;
-	background-image: url(/web/picture/s.png);
+	background-image: url(/picture/s.png);
 	background-size: 100% 100%;
 }
 #t54_2{
@@ -311,7 +312,7 @@
 	height: 60px;
 	left: 8px;
 	top: 10px;
-	background-image: url(/web/picture/s.png);
+	background-image: url(/picture/s.png);
 	background-size: 100% 100%;
 }
 #t55_2{
@@ -340,7 +341,7 @@
 	height: 60px;
 	left: 8px;
 	top: 10px;
-	background-image: url(/web/picture/s.png);
+	background-image: url(/picture/s.png);
 	background-size: 100% 100%;
 }
 #t56_2{
@@ -369,7 +370,7 @@
 	height: 60px;
 	left: 8px;
 	top: 10px;
-	background-image: url(/web/picture/s.png);
+	background-image: url(/picture/s.png);
 	background-size: 100% 100%;
 }
 #t57_2{
@@ -398,7 +399,7 @@
 	height: 60px;
 	left: 8px;
 	top: 10px;
-	background-image: url(/web/picture/s.png);
+	background-image: url(/picture/s.png);
 	background-size: 100% 100%;
 }
 #t58_2{
@@ -427,7 +428,7 @@
 	height: 60px;
 	left: 8px;
 	top: 10px;
-	background-image: url(/web/picture/s.png);
+	background-image: url(/picture/s.png);
 	background-size: 100% 100%;
 }
 #t59_2{
@@ -456,7 +457,7 @@
 	height: 60px;
 	left: 8px;
 	top: 10px;
-	background-image: url(/web/picture/s.png);
+	background-image: url(/picture/s.png);
 	background-size: 100% 100%;
 }
 #t510_2{
@@ -485,7 +486,7 @@
 	height: 60px;
 	left: 8px;
 	top: 10px;
-	background-image: url(/web/picture/s.png);
+	background-image: url(/picture/s.png);
 	background-size: 100% 100%;
 }
 #t511_2{
@@ -514,7 +515,7 @@
 	height: 60px;
 	left: 8px;
 	top: 10px;
-	background-image: url(/web/picture/s.png);
+	background-image: url(/picture/s.png);
 	background-size: 100% 100%;
 }
 #t512_2{
