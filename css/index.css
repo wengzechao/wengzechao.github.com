@@ -8,10 +8,10 @@
 	box-shadow: 10px 10px 10px gray;
 	background-image: url(/picture/background.jpg);
 	background-size: 100% 100%;
+	text-align: center;
 }
 #t1{
 	position: relative;
-	left: 15%;
 	font-size: 50px;
 	color: skyblue;
 }
@@ -24,79 +24,68 @@
 }
 #s3{
 	position: relative;
-	width: 50%;
+	width: 70%;
 	height: 60px;
-	left: 25%;
 	float: left;
 }
 #s4{
 	position: relative;
-	width: 50%;
+	width: 70%;
 	height: 60px;
-	left: 25%;
 	float: left;
 }
 #s5{
 	position: relative;
-	width: 50%;
+	width: 70%;
 	height: 60px;
-	left: 25%;
 	float: left;
 }
 #s6{
 	position: relative;
-	width: 50%;
+	width: 70%;
 	height: 60px;
-	left: 25%;
 	float: left;
 }
 #s7{
 	position: relative;
-	width: 50%;
+	width: 70%;
 	height: 60px;
-	left: 25%;
 	float: left;
 }
 #s8{
 	position: relative;
-	width: 50%;
+	width: 70%;
 	height: 60px;
-	left: 25%;
 	float: left;
 }
 #s9{
 	position: relative;
-	width: 50%;
+	width: 70%;
 	height: 60px;
-	left: 25%;
 	float: left;
 }
 #s10{
 	position: relative;
-	width: 50%;
+	width: 70%;
 	height: 60px;
-	left: 25%;
 	float: left;
 }
 #s11{
 	position: relative;
-	width: 50%;
+	width: 70%;
 	height: 60px;
-	left: 25%;
 	float: left;
 }
 #s12{
 	position: relative;
-	width: 50%;
+	width: 70%;
 	height: 60px;
-	left: 25%;
 	float: left;
 }
 #s13{
 	position: relative;
-	width: 50%;
+	width: 70%;
 	height: 60px;
-	left: 25%;
 	float: left;
 }
 #title3{
