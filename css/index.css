@@ -1,0 +1,155 @@
+#table{
+	position: absolute;
+	width: 50%;
+	height: 880px;
+	left: 25%;
+	top: 25px;
+	border: solid 1px gray;
+	box-shadow: 10px 10px 10px gray;
+	background-image: url(/picture/background.jpg);
+	background-size: 100% 100%;
+}
+#t1{
+	position: relative;
+	left: 15%;
+	font-size: 50px;
+	color: skyblue;
+}
+#t2{
+	position: relative;
+	display: block;
+	top: 35px;
+	color: red;
+}
+#s3{
+	position: relative;
+	width: 50%;
+	height: 60px;
+	left: 25%;
+	float: left;
+}
+#s4{
+	position: relative;
+	width: 50%;
+	height: 60px;
+	left: 25%;
+	float: left;
+}
+#s5{
+	position: relative;
+	width: 50%;
+	height: 60px;
+	left: 25%;
+	float: left;
+}
+#s6{
+	position: relative;
+	width: 50%;
+	height: 60px;
+	left: 25%;
+	float: left;
+}
+#s7{
+	position: relative;
+	width: 50%;
+	height: 60px;
+	left: 25%;
+	float: left;
+}
+#s8{
+	position: relative;
+	width: 50%;
+	height: 60px;
+	left: 25%;
+	float: left;
+}
+#s9{
+	position: relative;
+	width: 50%;
+	height: 60px;
+	left: 25%;
+	float: left;
+}
+#s10{
+	position: relative;
+	width: 50%;
+	height: 60px;
+	left: 25%;
+	float: left;
+}
+#s11{
+	position: relative;
+	width: 50%;
+	height: 60px;
+	left: 25%;
+	float: left;
+}
+#s12{
+	position: relative;
+	width: 50%;
+	height: 60px;
+	left: 25%;
+	float: left;
+}
+#s13{
+	position: relative;
+	width: 50%;
+	height: 60px;
+	left: 25%;
+	float: left;
+}
+#title3{
+	position: relative;
+	float: right;
+	width: 50px;
+}
+#title4{
+	position: relative;
+	float: right;
+	width: 50px;
+}
+#title5{
+	position: relative;
+	float: right;
+	width: 50px;
+}
+#title6{
+	position: relative;
+	float: right;
+	width: 50px;
+}
+#title7{
+	position: relative;
+	float: right;
+	width: 50px;
+}
+#title8{
+	position: relative;
+	float: right;
+	width: 50px;
+}
+#title9{
+	position: relative;
+	float: right;
+	width: 50px;
+}
+#title10{
+	position: relative;
+	float: right;
+	width: 50px;
+}
+#title11{
+	position: relative;
+	float: right;
+	width: 50px;
+}
+#title12{
+	position: relative;
+	float: right;
+	width: 50px;
+}
+#title13{
+	position: relative;
+	float: right;
+	width: 50px;
+}
