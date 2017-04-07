@@ -1,528 +1,484 @@
 #box{
 	position: absolute;
-	width: 400px;
-	height: 800px;
-	border: solid 1px black;
+	width: 577px;
+	height: 970px;
+	box-sizing: border-box;
+	border: solid 2px #EEEEEE;
 }
 #t1{
 	position: relative;
-	width: 400px;
+	width: 577px;
 	height: 50px;
-	left: 1px;
-	border-bottom: solid 1px black;
+	line-height: 50px;
+	font-family: "黑体";
 	text-align:center;
 }
 #t11{
 	position: relative;
-	width: 80px;
-	border-right: solid 1px gray;
+	width: 112px;
+	height: 100%;
+	top: 50%;
+	font-weight: bold;
+	float: left;
 }
 #t12{
 	position: relative;
-	width: 80px;
-	border-right: solid 1px gray;
+	width: 112px;
+	height: 100%;
+	background-color: #F7F7F7;
+	border-bottom: solid 2px #EEEEEE;
+	border-left: solid 2px #EEEEEE;
+	float: left;
 }
 #t13{
 	position: relative;
-	width: 80px;
-	border-right: solid 1px gray;
+	width: 112px;
+	height: 100%;
+	background-color: #F7F7F7;
+	border-bottom: solid 2px #EEEEEE;
+	float: left;
 }
 #t14{
 	position: relative;
-	width: 80px;
-	border-right: solid 1px gray;
+	width: 112px;
+	height: 100%;
+	background-color: #F7F7F7;
+	border-bottom: solid 2px #EEEEEE;
+	float: left;
 }
 #t15{
 	position: relative;
-	width: 80px;
+	width: 112px;
+	height: 100%;
+	background-color: #F7F7F7;
+	border-bottom: solid 2px #EEEEEE;
+	float: left;
 }
 
 #t2{
 	position: relative;
-	width: 400px;
-	height: 100px;
-	left: 1px;
-	border-bottom: solid 1px black;
-	background-color: lightgray;
-	text-align:center;
+	width: 577px;
+	height: 145px;
+	box-sizing: border-box;
+	border-bottom: solid 2px #EEEEEE;
 }
 #t21{
-	box-sizing: border-box;
 	position: relative;
-	width: 380px;
-	height: 30px;
-	top: 2px;
-	left: 6px;
-	margin-top: 10px;
+	width: 514px;
+	height: 40px;
+	margin-top: 24px;
+	margin-left: 19px;
+	box-sizing: border-box;
 	border: solid 1px black;
-	background-color: white;
 	display: block;
 }
 #t22{
-	box-sizing: border-box;
 	position: relative;
-	width: 380px;
-	height: 30px;
-	top: 2px;
-	left: 6px;
-	margin-top: 10px;
+	width: 514px;
+	height: 40px;
+	margin-top: 12px;
+	margin-left: 19px;
+	box-sizing: border-box;
 	border: solid 1px black;
-	background-color: white;
 	display: block;
 }
 
 #t3{
 	position: relative;
-	width: 400px;
-	height: 200px;
-	left: 1px;
-	border-bottom: solid 1px black;
+	width: 577px;
+	height: 240px;
+	box-sizing: border-box;
+	border-bottom: solid 2px #EEEEEE;
 	text-align:center;
 }
 #t31{
-	box-sizing: border-box;
 	position: relative;
-	width: 90px;
-	height: 90px;
-	top: 6px;
-	left: 6px;
-	background-image: url(/picture/b.jpg);
-	background-size: 100% 100%;
+	width: 120px;
+	height: 125px;
+	top: 16px;
+	left: 25px;
+	background-color: #FF4400;
 	float: left;
 }
 #t32{
-	box-sizing: border-box;
 	position: relative;
-	width: 250px;
-	height: 30px;
-	top: 2px;
-	margin-top: 10px;
-	margin-left: 25px;
+	width: 370px;
+	height: 36px;
+	margin-top: 40px;
+	margin-right: 44px;
+	box-sizing: border-box;
 	border: solid 1px black;
-	background-color: white;
-	float: left;
+	float: right;
 }
 #t33{
-	box-sizing: border-box;
 	position: relative;
-	width: 250px;
-	height: 30px;
-	top: 2px;
-	margin-top: 10px;
-	margin-left: 25px;
+	width: 370px;
+	height: 36px;
+	margin-top: 12px;
+	margin-right: 44px;
+	box-sizing: border-box;
 	border: solid 1px black;
-	background-color: white;
-	float: left;
+	float: right;
 }
 #t34{
 	position: absolute;
-	width: 100px;
-	height: 40px;
-	left: 20px;
-	top: 280px;
-	background-color: orange;
+	width: 185px;
+	height: 50px;
+	margin-left: 35px;
+	margin-top: 160px;
+	background-color: #FF4400;
+	border: 0;
 	color: white;
-	box-shadow: 5px 5px 10px gray;
+	font-family: "黑体";
+	font-size: 24px;
+	font-weight: bold;
 }
 #t35{
 	position: absolute;
-	width: 100px;
-	height: 40px;
-	left: 160px;
-	top: 280px;
-	background-color: orange;
+	width: 150px;
+	height: 50px;
+	margin-left: 235px;
+	margin-top: 160px;
+	background-color: #FF4400;
+	border: 0;
 	color: white;
-	box-shadow: 5px 5px 10px gray;
+	font-family: "黑体";
+	font-size: 24px;
+	font-weight: bold;
 }
 #t36{
 	position: absolute;
-	width: 100px;
-	height: 40px;
-	left: 300px;
-	top: 280px;
-	background-color: orange;
+	width: 150px;
+	height: 50px;
+	margin-left: 398px;
+	margin-top: 160px;
+	background-color: #FF4400;
+	border: 0;
 	color: white;
-	box-shadow: 5px 5px 10px gray;
+	font-family: "黑体";
+	font-size: 24px;
+	font-weight: bold;
 }
 
 #t4{
 	position: relative;
-	width: 400px;
-	height: 100px;
-	left: 1px;
-	border-bottom: solid 1px black;
-	background-color: lightgray;
-	text-align:center;
+	width: 577px;
+	height: 90px;
+	border-bottom: solid 2px #EEEEEE;
 }
 #t41{
-	box-sizing: border-box;
 	position: relative;
-	width: 380px;
-	height: 40px;
-	left: 6px;
-	margin-top: 25px;
+	width: 514px;
+	height: 38px;
+	margin-top: 20px;
+	margin-left: 20px;
+	box-sizing: border-box;
 	border: solid 1px black;
-	background-color: white;
-	display: block;
+	float: left;
 }
 
 #t5{
 	position: relative;
-	width: 400px;
-	height: 351px;
-	left: 1px;
+	box-sizing: border-box;
+	width: 577px;
+	height: 450px;
 	text-align:center;
+	font-size: 25px;
+	color: gray;
+	font-family: "黑体";
+	text-align: center;
 }
 #t51{
-	box-sizing: border-box;
 	position: relative;
-	width: 160px;
-	height: 234px;
-	left: -2px;
-	top: -2px;
-	border-right: solid 1px black;
-	border-bottom: solid 1px black;
+	width: 40%;
+	height: 65%;
+	box-sizing: border-box;
+	border-right: solid 2px #EEEEEE;
+	border-bottom: solid 2px #EEEEEE;
 	float: left;
 }
 #t51_1{
-	box-sizing: border-box;
 	position: relative;
-	width: 60px;
-	height: 120px;
-	left: 50px;
-	top: 50px;
-	background-image: url(/picture/s.png);
-	background-size: 100% 100%;
+	width: 85px;
+	height: 125px;
+	margin-left: 70px;
+	margin-top: 55px;
+	background-color: #FF4400;
+	float: left;
 }
 #t51_2{
-	box-sizing: border-box;
 	position: relative;
-	width: 60px;
-	height: 40px;
-	left: 50px;
-	top: 50px;
-	display: block;
+	width: 100%;
+	height: 30px;
+	margin-top: 25px;
+	float: left;
 }
 #t52{
-	box-sizing: border-box;
 	position: relative;
-	width: 80px;
-	height: 117px;
-	left: -2px;
-	top: -2px;
-	border-right: solid 1px black;
-	border-bottom: solid 1px black;
+	width: 20%;
+	height: 33%;
+	box-sizing: border-box;
+	border-right: solid 2px #EEEEEE;
+	border-bottom: solid 2px #EEEEEE;
 	float: left;
 }
 #t52_1{
-	box-sizing: border-box;
 	position: relative;
-	width: 60px;
-	height: 60px;
-	left: 8px;
-	top: 10px;
-	background-image: url(/picture/s.png);
-	background-size: 100% 100%;
+	width: 66px;
+	height: 66px;
+	margin-left: 25px;
+	margin-top: 25px;
+	background-color: #FF4400;
+	float: left;
 }
 #t52_2{
-	box-sizing: border-box;
 	position: relative;
-	width: 60px;
-	height: 40px;
-	left: 10px;
-	top: 10px;
-	display: block;
+	width: 100%;
+	height: 30px;
+	margin-top: 8px;
+	float: left;
 }
 #t53{
-	box-sizing: border-box;
 	position: relative;
-	width: 80px;
-	height: 117px;
-	left: -2px;
-	top: -2px;
-	border-right: solid 1px black;
-	border-bottom: solid 1px black;
+	width: 20%;
+	height: 33%;
+	box-sizing: border-box;
+	border-right: solid 2px #EEEEEE;
+	border-bottom: solid 2px #EEEEEE;
 	float: left;
 }
 #t53_1{
-	box-sizing: border-box;
 	position: relative;
-	width: 60px;
-	height: 60px;
-	left: 8px;
-	top: 10px;
-	background-image: url(/picture/s.png);
-	background-size: 100% 100%;
+	width: 66px;
+	height: 66px;
+	margin-left: 25px;
+	margin-top: 25px;
+	background-color: #FF4400;
+	float: left;
 }
 #t53_2{
-	box-sizing: border-box;
 	position: relative;
-	width: 60px;
-	height: 40px;
-	left: 10px;
-	top: 10px;
-	display: block;
+	width: 100%;
+	height: 30px;
+	margin-top: 8px;
+	float: left;
 }
 #t54{
-	box-sizing: border-box;
 	position: relative;
-	width: 80px;
-	height: 117px;
-	left: -2px;
-	top: -2px;
-	border-right: solid 1px black;
-	border-bottom: solid 1px black;
+	width: 20%;
+	height: 33%;
+	box-sizing: border-box;
+	border-bottom: solid 2px #EEEEEE;
 	float: left;
+	display: block;
 }
 #t54_1{
-	box-sizing: border-box;
 	position: relative;
-	width: 60px;
-	height: 60px;
-	left: 8px;
-	top: 10px;
-	background-image: url(/picture/s.png);
-	background-size: 100% 100%;
-}
-#t54_2{
-	box-sizing: border-box;
-	position: relative;
-	width: 60px;
-	height: 40px;
-	left: 10px;
-	top: 10px;
-	display: block;
-}
-#t55{
-	box-sizing: border-box;
-	position: relative;
-	width: 80px;
-	height: 117px;
-	left: -2px;
-	top: -2px;
-	border-right: solid 1px black;
-	border-bottom: solid 1px black;
+	width: 66px;
+	height: 66px;
+	margin-left: 25px;
+	margin-top: 25px;
+	background-color: #FF4400;
 	float: left;
 }
-#t55_1{
-	box-sizing: border-box;
+#t54_2{
 	position: relative;
-	width: 60px;
-	height: 60px;
-	left: 8px;
-	top: 10px;
-	background-image: url(/picture/s.png);
-	background-size: 100% 100%;
+	width: 100%;
+	height: 30px;
+	margin-top: 8px;
+	float: left;
+}
+#t55{
+	position: relative;
+	width: 20%;
+	height: 33%;
+	box-sizing: border-box;
+	border-right: solid 2px #EEEEEE;
+	border-bottom: solid 2px #EEEEEE;
+	float: left;
+	display: inline-block;
+}
+#t55_1{
+	position: relative;
+	width: 66px;
+	height: 66px;
+	margin-left: 25px;
+	margin-top: 25px;
+	background-color: #FF4400;
+	float: left;
 }
 #t55_2{
-	box-sizing: border-box;
 	position: relative;
-	width: 60px;
-	height: 40px;
-	left: 10px;
-	top: 10px;
-	display: block;
+	width: 100%;
+	height: 30px;
+	margin-top: 8px;
+	float: left;
 }
 #t56{
-	box-sizing: border-box;
 	position: relative;
-	width: 80px;
-	height: 117px;
-	left: -2px;
-	top: -2px;
-	border-right: solid 1px black;
+	width: 20%;
+	height: 33%;
+	box-sizing: border-box;
+	border-right: solid 2px #EEEEEE;
+	border-bottom: solid 2px #EEEEEE;
 	float: left;
 }
 #t56_1{
-	box-sizing: border-box;
 	position: relative;
-	width: 60px;
-	height: 60px;
-	left: 8px;
-	top: 10px;
-	background-image: url(/picture/s.png);
-	background-size: 100% 100%;
+	width: 66px;
+	height: 66px;
+	margin-left: 25px;
+	margin-top: 25px;
+	background-color: #FF4400;
+	float: left;
 }
 #t56_2{
-	box-sizing: border-box;
 	position: relative;
-	width: 60px;
-	height: 40px;
-	left: 10px;
-	top: 10px;
-	display: block;
+	width: 100%;
+	height: 30px;
+	margin-top: 8px;
+	float: left;
 }
 #t57{
-	box-sizing: border-box;
 	position: relative;
-	width: 80px;
-	height: 117px;
-	left: -2px;
-	top: -2px;
-	border-right: solid 1px black;
+	width: 20%;
+	height: 33%;
+	box-sizing: border-box;
+	border-bottom: solid 2px #EEEEEE;
 	float: left;
 }
 #t57_1{
-	box-sizing: border-box;
 	position: relative;
-	width: 60px;
-	height: 60px;
-	left: 8px;
-	top: 10px;
-	background-image: url(/picture/s.png);
-	background-size: 100% 100%;
+	width: 66px;
+	height: 66px;
+	margin-left: 25px;
+	margin-top: 25px;
+	background-color: #FF4400;
+	float: left;
 }
 #t57_2{
-	box-sizing: border-box;
 	position: relative;
-	width: 60px;
-	height: 40px;
-	left: 10px;
-	top: 10px;
-	display: block;
+	width: 100%;
+	height: 30px;
+	margin-top: 8px;
+	float: left;
 }
 #t58{
-	box-sizing: border-box;
 	position: relative;
-	width: 80px;
-	height: 117px;
-	left: -2px;
-	top: -2px;
-	border-right: solid 1px black;
+	width: 20%;
+	height: 33%;
+	box-sizing: border-box;
+	border-right: solid 2px #EEEEEE;
 	float: left;
 }
 #t58_1{
-	box-sizing: border-box;
 	position: relative;
-	width: 60px;
-	height: 60px;
-	left: 8px;
-	top: 10px;
-	background-image: url(/picture/s.png);
-	background-size: 100% 100%;
+	width: 66px;
+	height: 66px;
+	margin-left: 25px;
+	margin-top: 25px;
+	background-color: #FF4400;
+	float: left;
 }
 #t58_2{
-	box-sizing: border-box;
 	position: relative;
-	width: 60px;
-	height: 40px;
-	left: 10px;
-	top: 10px;
-	display: block;
+	width: 100%;
+	height: 30px;
+	margin-top: 8px;
+	float: left;
 }
 #t59{
-	box-sizing: border-box;
 	position: relative;
-	width: 80px;
-	height: 117px;
-	left: -2px;
-	top: -2px;
-	border-right: solid 1px black;
+	width: 20%;
+	height: 33%;
+	box-sizing: border-box;
+	border-right: solid 2px #EEEEEE;
 	float: left;
 }
 #t59_1{
-	box-sizing: border-box;
 	position: relative;
-	width: 60px;
-	height: 60px;
-	left: 8px;
-	top: 10px;
-	background-image: url(/picture/s.png);
-	background-size: 100% 100%;
+	width: 66px;
+	height: 66px;
+	margin-left: 25px;
+	margin-top: 25px;
+	background-color: #FF4400;
+	float: left;
 }
 #t59_2{
-	box-sizing: border-box;
 	position: relative;
-	width: 60px;
-	height: 40px;
-	left: 10px;
-	top: 10px;
-	display: block;
+	width: 100%;
+	height: 30px;
+	margin-top: 8px;
+	float: left;
 }
 #t510{
-	box-sizing: border-box;
 	position: relative;
-	width: 80px;
-	height: 117px;
-	left: 2px;
-	top: -353px;
-	border-bottom: solid 1px black;
-	float: right;
+	width: 20%;
+	height: 33%;
+	box-sizing: border-box;
+	border-right: solid 2px #EEEEEE;
+	float: left;
 }
 #t510_1{
-	box-sizing: border-box;
 	position: relative;
-	width: 60px;
-	height: 60px;
-	left: 8px;
-	top: 10px;
-	background-image: url(/picture/s.png);
-	background-size: 100% 100%;
+	width: 66px;
+	height: 66px;
+	margin-left: 25px;
+	margin-top: 25px;
+	background-color: #FF4400;
+	float: left;
 }
 #t510_2{
-	box-sizing: border-box;
 	position: relative;
-	width: 60px;
-	height: 40px;
-	left: 10px;
-	top: 10px;
-	display: block;
+	width: 100%;
+	height: 30px;
+	margin-top: 8px;
+	float: left;
 }
 #t511{
-	box-sizing: border-box;
 	position: relative;
-	width: 80px;
-	height: 117px;
-	left: 82px;
-	top: -236px;
-	border-bottom: solid 1px black;
-	float: right;
+	width: 20%;
+	height: 33%;
+	box-sizing: border-box;
+	border-right: solid 2px #EEEEEE;
+	float: left;
 }
 #t511_1{
-	box-sizing: border-box;
 	position: relative;
-	width: 60px;
-	height: 60px;
-	left: 8px;
-	top: 10px;
-	background-image: url(/picture/s.png);
-	background-size: 100% 100%;
+	width: 66px;
+	height: 66px;
+	margin-left: 25px;
+	margin-top: 25px;
+	background-color: #FF4400;
+	float: left;
 }
 #t511_2{
-	box-sizing: border-box;
 	position: relative;
-	width: 60px;
-	height: 40px;
-	left: 10px;
-	top: 10px;
-	display: block;
+	width: 100%;
+	height: 30px;
+	margin-top: 8px;
+	float: left;
 }
 #t512{
-	box-sizing: border-box;
 	position: relative;
-	width: 80px;
-	height: 117px;
-	left: 162px;
-	top: -119px;
-	background-color: white;
-	float: right;
+	width: 20%;
+	height: 33%;
+	box-sizing: border-box;
+	float: left;
 }
 #t512_1{
-	box-sizing: border-box;
 	position: relative;
-	width: 60px;
-	height: 60px;
-	left: 8px;
-	top: 10px;
-	background-image: url(/picture/s.png);
-	background-size: 100% 100%;
+	width: 66px;
+	height: 66px;
+	margin-left: 25px;
+	margin-top: 25px;
+	background-color: #FF4400;
+	float: left;
 }
 #t512_2{
-	box-sizing: border-box;
 	position: relative;
-	width: 60px;
-	height: 40px;
-	left: 10px;
-	top: 10px;
-	display: block;
+	width: 100%;
+	height: 30px;
+	margin-top: 8px;
+	float: left;
 }
