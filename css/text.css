@@ -1,0 +1,14 @@
+.ui-box{
+	width: 100px;
+	height: 100px;
+	margin: 10px;
+	display: flex;
+	background-color: gray;
+	flex-direction: row;
+	justify-content: center;
+}
+.ui-box3{
+	display: flex;
+	align-items: center;
+	color: white;
+}
