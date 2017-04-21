@@ -1,0 +1,47 @@
+.ui-timetable{
+	width: 685px;
+	height: 312px;
+	background-color: gray;
+	display: flex;
+	flex-direction: column;
+}
+.ui-timetable-message{
+	width: 685px;
+	height: 97px;
+	background-color: lightgray;
+	display: flex;
+	flex-direction: column;
+}
+.ui-timetable-message-path{
+	width: 685px;
+	height: 26px;
+	border-bottom: solid 6px #1B88C4;
+}
+.ui-timetable-message-path-word{
+    background: linear-gradient(#3F94CE, #1C89C5);
+    border-radius: .8em; 
+}
+.ui-timetable-message-path-picture{
+
+}
+.ui-timetable-message-time{
+	width: 685px;
+	height: 71px;
+	background-color: lightgray;
+	box-sizing: border-box;
+	border: solid 1px #C0C0C0;
+	border-top: 0px;
+}
+
+
+
+.ui-timetable-content{
+	width: 685px;
+	height: 14px;
+	background-color: white;
+}
+.ui-timetable-way{
+	width: 685px;
+	height: 193px;
+	background-color: lightgray;
+}
