@@ -36,7 +36,6 @@ $(document).ready(function() {
 	    }
 	    $("#ui-step3-data").append($newItem);
         num++;
-        console.log(num);
     }
 
      function deleteData(){
@@ -47,7 +46,6 @@ $(document).ready(function() {
             if(num==0){
                 $("#ui-nolist").show();
             }
-            console.log(num);
             for (var i=0;i<num;i++) {
                 $(".ui-step3-list-index").eq(i).text(i+1);
             }
